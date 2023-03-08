@@ -10,20 +10,24 @@
 
     height: 120px;
 
+    background-color: rgb(224, 221, 221);
+    color: black;
+    text-align: right;
+    font-size: 80px;
 }
 
 .butao
 {
 
     height: 120px;
-
-
+    font-size: 80px;
 }
 
 .numericos
 {
 
     margin-left: 7.5%;
+    
 
 }
 
@@ -32,5 +36,13 @@
 {
 
     margin-right: 2.5%;
+
+}
+
+.margin-btnf
+{
+    
+    
+    margin-right: 7.5%;
 
 }
